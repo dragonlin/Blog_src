@@ -7,7 +7,7 @@ blog的代码
     hexo server  // 启动服务
 ```
 
-    [localhost:3000](http://localhost:3000) 
+[localhost:3000](http://localhost:3000) 
     or online version [dragonlin.io](https://dragonlin.github.io)
 
 
