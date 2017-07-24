@@ -22,7 +22,7 @@ input::-webkit-input-placeholder{
   color: #666;
 }
 ```
-
+<!--more--> 
 ### 禁止文本选择
 ```
 .div{
